@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Student A",
+    "code": "SA0123",
+    "courses": ["CA", "CB", "CC"]
+  },
+  {
+    "name": "Student B",
+    "code": "SB0123",
+    "courses": []
+  },
+  {
+    "name": "Student C",
+    "code": "SC0123",
+    "courses": ["CC"]
+  },
+  {
+    "name": "Student D",
+    "code": "SD0123",
+    "courses": []
+  }
+]

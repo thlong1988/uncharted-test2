@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Courses A",
+    "code": "CA",
+    "students": ["SA", "SB", "SC"]
+  },
+  {
+    "name": "Courses B",
+    "code": "CA",
+    "students": ["SA", "SB"]
+  },
+  {
+    "name": "Courses C",
+    "code": "CA",
+    "students": []
+  },
+  {
+    "name": "Courses D",
+    "code": "CD"
+  }
+]
