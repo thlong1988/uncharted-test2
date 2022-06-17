@@ -2,12 +2,12 @@
   {
     "name": "Courses A",
     "code": "CA",
-    "students": ["SA", "SB", "SC"]
+    "students": ["SA0123", "SB0123", "SC0123"]
   },
   {
     "name": "Courses B",
     "code": "CA",
-    "students": ["SA", "SB"]
+    "students": ["SA0123", "SB0123"]
   },
   {
     "name": "Courses C",
